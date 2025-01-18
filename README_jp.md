@@ -1,79 +1,91 @@
-# ai-money-maker
+Here is the translation of your text into English:  
 
-## 貢献方法
+---
 
-AIを活用してお金を稼ぐ事例、例えば記事、ウェブサイト、ブログ、ツイートなどの貢献を歓迎しています。
+### **AI Money-Maker**  
+**Dedication Method**  
+We welcome contributions of examples of earning money using AI, such as articles, websites, blogs, tweets, etc.  
 
-## AI副業収入情報のコレクション
+### **AI Vice Industry: Collection of Income Information**  
+This is a collection of ways, tools, and platforms for earning income through side jobs using AI. It aims to help individuals leverage their skills to earn money in their free time in the AI era.  
 
-これは、AIを活用して副業で収入を得る方法、ツール、プラットフォームに関するコレクションであり、AI時代において知恵を活かして余暇に収入を得る手助けを目的としています。
+### **Methods to Start a Stable Vice Industry**  
+#### **Four Proposals:**  
+1. **Earn traffic with content**: Gather traffic, find users who need products, and facilitate transactions in collaboration with others.  
+2. **Sell shovels rather than digging for gold**: Digging for gold is risky, but selling tools (props) is easier.  
+3. **If you don't want to spend money, spend time**: Invest time in trial and error to find ways to generate revenue.  
+4. **Create assets instead of selling time**: Accumulate assets that generate sustainable income rather than selling your time as a one-time deal.  
 
-## 副業を安定して始めるための方法
+#### **One Strategy:**  
+Currently, the most accessible way to use AI for side income is leveraging traffic from personal media.  
 
-### 4つの提案
-- **コンテンツでトラフィックを稼ぐ**：トラフィックを集めて、商品が必要なユーザーを見つけ、他者と協力して取引を促進する。
-- **金を掘るよりもシャベルを売る**：金を掘るのはリスクが大きいが、道具を売る方が簡単です。
-- **お金を使いたくないなら時間を使う**：時間を費やして試行錯誤を重ね、収益を得る方法を見つける。
-- **時間を売るのではなく資産を作る**：持続的な収益が得られる資産を蓄積し、時間を一回きりで売るのではなくする。
+---
 
-### 1つの戦略
-AIを使った副業では、現在、自メディアのトラフィックを活用するのが最も身近なルートです。
+### **Ideas for Making Money with AI**  
+#### **Recognizing Strategies for Monetization with Technology:**  
+- **Create niche-specialized platforms instead of general platforms**: Focusing on a specific field makes it easier to stand out.  
+- **Align with human nature**: Content aligned with human desires (e.g., novel creation) is in higher demand than educational content.  
+- **Start with small needs**: Begin with minimal needs, such as offering API services for Midjourney.  
+- **Use open-source for traffic**: Open-source projects can gain more resources and public recognition.  
+- **Target international markets**: Overseas markets have higher purchasing power and fewer regulatory restrictions.  
+- **Earn from the wealthy**: Wealthy individuals or those looking to make money are more willing to pay.  
+- **Clarify objectives**: Understanding users, features, selling points, and user gathering locations makes promotions easier.  
 
-## AI技術でお金を稼ぐアイデア共有
+### **Proven AI Monetization Plans:**  
+- **Shell sites**: Create AI-powered shell sites and sell private implementations.  
+- **API aggregation**: Collect various AI APIs for developers to use quickly.  
+- **Sales card sites**: Automate the sale of AI accounts, simplifying transactions.  
+- **AI tools specialization**: Develop AI tools tailored to specific needs, such as AI writing tools.  
+- **Model training**: Train AI models for clients, though this requires high effectiveness.  
 
-### 技術でお金を稼ぐための認識
-- **プラットフォームではなく垂直特化型を作る**：特定の分野に焦点を当てることで、一般的なプラットフォームを作るよりも目立ちやすい。
-- **人間性に沿ったことをする**：人間の欲求に合ったもの、例えば小説の創作などは教育コンテンツよりも需要があります。
-- **小さなニーズから始める**：最小のニーズから始める。例えば、MidjourneyのAPIサービスを提供するなど。
-- **オープンソースでトラフィックを稼ぐ**：オープンソースにすることで、より多くのリソースと公共の認知を得ることができます。
-- **海外市場に目を向ける**：海外市場は支払い能力が高く、審査制限も少ないです。
-- **お金持ちからお金を稼ぐ**：お金持ちやお金を稼ぎたいと思う人たちは支払う意欲が高いです。
-- **目標を明確にする**：ユーザー、機能、売りのポイント、ユーザーの集まる場所を理解すれば、プロモーションもシンプルになります。
+---
 
-### 検証済みの技術収益化プラン
-1. **シェルサイト**：GPTを使ったシェルサイトなど、サイトを作成しプライベート導入を販売する。
-2. **APIの集約**：さまざまなAI APIを集約し、開発者が素早く利用できるようにする。
-3. **販売カードサイト**：AIアカウントを自動販売し、取引プロセスを簡素化する。
-4. **AIツールに特化**：特定のニーズに応じたAIツール、例えばAIで論文を書くツールなど。
-5. **モデル訓練**：顧客のためにAIモデルを訓練するが、効果の要求が高いです。
+### **AI Self-Media Monetization Ideas**  
+#### **AI Script Video Revenue:**  
+- **Picture book stories**: Use AI to create stories and attract traffic.  
+- **Virtual casters**: Use AI-generated virtual casters for videos.  
+- **Novel-to-manga tweets**: Convert novels into manga using AI-generated content.  
+- **Movie explanations**: Use AI to generate movie explanation videos for quick content creation.  
 
-## AI自メディア収益化アイデア共有
+#### **Video Effects Revenue:**  
+- **Instantaneous Universe Expansion**: Create cool transition animations to captivate audiences.  
+- **Dance effects**: Enhance content appeal with motion effects.  
+- **Infinite zoom-in and out**: Create visually unique effects.  
 
-### AIスクリプト動画収益
-- **絵本ストーリー**：AIを使ってストーリーを作り、トラフィックを集める。
-- **バーチャルキャスター**：AIで生成したバーチャルキャスターを使った動画。
-- **小説漫画ツイート**：小説を漫画化し、AIでコンテンツを作成する。
-- **映画解説**：AIで映画の解説動画を生成し、素早くコンテンツを制作する。
+#### **Anime Translation & Transport:**  
+- **Video relocation**: Use AI tools to translate and relocate foreign videos to expand audiences.  
 
-### 動画エフェクト収益
-- **瞬間的に全宇宙**：クールなトランジションアニメーション動画を作成し、観客を惹きつける。
-- **ダンスエフェクト**：モーションエフェクトでコンテンツの魅力を向上。
-- **無限の拡大と縮小**：視覚的にユニークなエフェクトを作成する。
+---
 
-### 動画翻訳&搬送
-- **動画のリロケーション**：AIツールを使って海外の動画を翻訳して搬送し、オーディエンスを拡大する。
+### **AI Portraits as Beneficial Side Hustles**  
+- **Personal avatars**: Generate unique AI avatars for sale.  
+- **Desktop wallpapers**: Create wallpaper images and monetize them across channels.  
+- **Model outfit changes**: Use AI to generate models with different outfits.  
+- **Product advertising**: Create AI-generated advertising images to cut marketing costs.  
+- **Children’s picture books**: Create AI-illustrated children's books for home needs.  
+- **Emoji packs**: Mass-generate emojis for passive income.  
+- **Furniture & interior design**: Generate home interior images to help customers choose.  
+- **Logo design**: Quickly generate brand logos for business needs.  
+- **Photo restoration**: Use AI to restore old photos as a personal service.  
 
-### AI画像収益副業
-- **個人のアバター**：AIで個性的なアバターを生成し、販売する。
-- **デスクトップ壁紙**：壁紙画像を作成し、様々なチャンネルで収益化する。
-- **モデル衣装替え**：AIで異なる衣装を着たモデルを生成する。
-- **商品広告**：広告画像を作成し、マーケティングコストを削減。
-- **子供向け絵本**：AIで描かれた子供向けの絵本を作成し、家庭のニーズに応える。
-- **絵文字パック**：絵文字を大量に生成し、受動的な収入を得る。
-- **家具&インテリア**：家のインテリアのイメージを生成し、顧客が選択しやすくする。
-- **ロゴ制作**：ブランドのロゴを迅速に生成し、ビジネスのニーズに応える。
-- **写真修復**：AIで古い写真を修復し、個人サービスを提供する。
+---
 
-### AI文案収益副業
-- **新メディア投稿**：AIで新メディアの文案を生成し、創作の効率を向上。
-- **AI論文代筆**：学術執筆のためにリライトや補助を行う。
-- **AI小説脚本**：AIで脚本を生成し、コンテンツの創作の質を向上。
-- **AI履歴書の書き換え**：AIで競争力のある履歴書を生成し、求職を支援。
+### **AI Copywriting as a Side Hustle**  
+- **New media posts**: Generate copy for new media using AI to enhance creative efficiency.  
+- **AI thesis ghostwriting**: Assist in academic writing with rewriting and support.  
+- **AI novel & screenplay writing**: Use AI to generate scripts and improve content quality.  
+- **AI resume writing**: Generate competitive resumes with AI to aid job seekers.  
 
-### AIオーディオ収益副業
-- **AIボイスクローン**：AIで音声をクローンし、個性的な音声コンテンツを作成する。
-- **AI音楽**：AIで音楽を生成し、著作権フリーの音楽を提供する。
+---
 
-### AIライブ配信
-- **無人ショッピング棚ライブ**：AIを活用して無人ライブ配信を行い、人的コストを削減。
-- **バーチャル人ライブ**：バーチャルキャラクターを生成してライブ配信し、コンテンツに面白さを加える。
+### **AI Audio Revenue in the Vice Industry**  
+- **AI voice cloning**: Clone voices with AI to create unique audio content.  
+- **AI music**: Generate AI-composed music and provide royalty-free tracks.  
+
+### **AI Live Streaming:**  
+- **Unmanned shopping shelf live streaming**: Use AI to conduct unattended live shopping, reducing labor costs.  
+- **Virtual human live streaming**: Generate virtual characters for live streaming to enhance content engagement.  
+
+---
+
+This is a comprehensive collection of AI-driven business ideas and strategies for making money. Let me know if you’d like specific guidance on any of these areas! 🚀
