@@ -1,6 +1,3 @@
-以下是将原文翻译成美国人易于理解的英文版本：  
-
----
 
 ### **How to Make Money with Short Drama Projects**
 
