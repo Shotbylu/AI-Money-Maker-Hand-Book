@@ -1,8 +1,8 @@
-# AI Money Maker
+# AI Money Maker Hand Book
 
 ## How to Contribute
 
-We welcome contributions on making money with AI, including articles, websites, blogs, tweets, and more.
+I welcome contributions on making money with AI, including articles, websites, blogs, tweets, and more.
 
 ## Contribution Method
 
